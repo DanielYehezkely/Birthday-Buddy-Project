@@ -5,7 +5,6 @@ return <article className="person">
         <h4>{name}</h4>
         <p>{age} years</p>
     </div>
-
 </article>
 
 };
