@@ -6,7 +6,6 @@ return <article className="person">
         <p>{age} years</p>
     </div>
 </article>
-
 };
 
 export default Person

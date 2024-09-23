@@ -1,5 +1,7 @@
 ## Figma URL
 
+This project was built by following the **React course** by **John Smilga** on Udemy.
+
 [Birthday Buddy](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
 
 ## Steps
